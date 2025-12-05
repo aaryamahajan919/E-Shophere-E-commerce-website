@@ -7,7 +7,7 @@ A modern, responsive, and user-friendly e-commerce platform featuring authentica
 
 ## 📁 Project Structure
 
-\`\`\`
+```
 E-Shophere-E-commerce-Website/
 │── public/
 │── src/
@@ -20,22 +20,22 @@ E-Shophere-E-commerce-Website/
 │── tailwind.config.js
 │── firebase-config.js
 │── README.md
-\`\`\`
+```
 
 ---
 
 ## 🚀 Getting Started
 
 ### 1️⃣ Clone the repository
-\`\`\`bash
+```bash
 git clone https://github.com/aaryamahajan919/E-Shophere-E-commerce-website.git
 cd E-Shophere-E-commerce-website
-\`\`\`
+```
 
 ### 2️⃣ Install dependencies
-\`\`\`bash
+```bash
 npm install
-\`\`\`
+```
 
 ### 3️⃣ Set up Firebase
 - Go to Firebase Console  
@@ -47,20 +47,20 @@ npm install
 - Add your Stripe keys to `.env`
 
 ### 5️⃣ Run development server
-\`\`\`bash
+```bash
 npm run dev
-\`\`\`
+```
 
 ### 6️⃣ Build for production
-\`\`\`bash
+```bash
 npm run build
-\`\`\`
+```
 
 ---
 
 ## 🖼️ Preview
 
-![E-commerce Website preview](preview.png)
+![E-commerce Website preview](project3.png)
 
 ---
 
@@ -79,19 +79,11 @@ npm run build
 
 ## 📦 Deployment
 
-### Vercel
-\`\`\`bash
-vercel deploy
-\`\`\`
-
-### Netlify  
-Upload the **dist** folder.
-
 ### GitHub Pages
-\`\`\`bash
+```bash
 npm run build
 git subtree push --prefix dist origin gh-pages
-\`\`\`
+```
 
 ### AWS S3 + CloudFront  
 1. Build  
