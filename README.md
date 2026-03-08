@@ -107,5 +107,5 @@ If you like this project, please ⭐ star the repo!
 
 ## 📧 Contact
 **Aarya Mahajan**  
-Frontend Developer  
+Software Developer  
 GitHub | LinkedIn
