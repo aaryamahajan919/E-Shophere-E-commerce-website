@@ -108,4 +108,3 @@ If you like this project, please ⭐ star the repo!
 ## 📧 Contact
 **Aarya Mahajan**  
 Software Developer  
-GitHub | LinkedIn
